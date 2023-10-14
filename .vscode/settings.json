@@ -1,0 +1,11 @@
+{
+  "Lua.diagnostics.globals": [
+    "oranges",
+    "apples",
+    "fruit",
+    "myColorList",
+    "myAddAnimalList",
+    "itemAdd",
+    "LUA"
+  ]
+}
