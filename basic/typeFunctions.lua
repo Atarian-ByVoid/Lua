@@ -1,0 +1,7 @@
+-- --[[Type Functions]]
+-- l = 10
+-- print(type("My Type ;)"))
+-- print(type(5.1 * l))
+-- print(type(true))
+-- print(type(print))
+-- print(type(type(LUA)))
